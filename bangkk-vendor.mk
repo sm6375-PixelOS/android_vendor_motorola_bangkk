@@ -361,9 +361,6 @@ PRODUCT_PACKAGES += \
     libcamxswispiqmodule \
     libcamxswprocessalgo \
     libcamxtintlessalgo \
-    libcapiv2svacnn \
-    libcapiv2svarnn \
-    libcapiv2vop \
     libchilog \
     libcom.qti.chinodeutils \
     libjpege \
@@ -384,9 +381,6 @@ PRODUCT_PACKAGES += \
     libopencv \
     libopestriping \
     libremosaic_wrapper \
-    libsns_device_mode_stub \
-    libsns_fastRPC_util \
-    libsns_low_lat_stream_stub \
     libswregistrationalgo \
     libundistort_impl \
     libvidhance \
