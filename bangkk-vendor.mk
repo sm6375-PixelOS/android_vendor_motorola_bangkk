@@ -387,10 +387,8 @@ PRODUCT_PACKAGES += \
     libsns_device_mode_stub \
     libsns_fastRPC_util \
     libsns_low_lat_stream_stub \
-    libsnsdiaglog \
     libswregistrationalgo \
     libundistort_impl \
-    libvideooptfeature \
     libvidhance \
     motorola.hardware.camera.desktop@1.0 \
     motorola.hardware.camera.desktop@2.0 \
@@ -398,13 +396,10 @@ PRODUCT_PACKAGES += \
     motorola.hardware.camera.imgtuner@2.0 \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     libaidenoiser \
-    libc2d_helper \
     libcamxifestriping \
     libipebpsstriping \
     libipebpsstriping170 \
     liblowlight_ai_portrait.arcsoft \
-    libsensorslog \
-    libsnsapi \
     libvideoutils \
     com.arcsoft.node.supernightraw \
     libdepthmapwrapper_secure \
@@ -421,7 +416,6 @@ PRODUCT_PACKAGES += \
     libarcsoft_calibverify_TriCamera \
     libarcsoft_tricam_calibration \
     libarcsoft_tricam_verification \
-    motorola.hardware.camera.imgtuner@2.0 \
     vendor.qti.hardware.seccam@1.0 \
     MotoSignatureApp \
     EuiccPartnerApp \
