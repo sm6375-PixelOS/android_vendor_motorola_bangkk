@@ -198,10 +198,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/sns_wrist_tilt_gesture.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/sns_wrist_tilt_gesture.proto \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/tcs3708.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/tcs3708.proto \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
-    vendor/motorola/bangkk/proprietary/vendor/etc/thermal-engine-bangkk-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-bangkk-camera.conf \
-    vendor/motorola/bangkk/proprietary/vendor/etc/thermal-engine-bangkk-game-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-bangkk-game-normal.conf \
-    vendor/motorola/bangkk/proprietary/vendor/etc/thermal-engine-bangkk-game-perf.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-bangkk-game-perf.conf \
-    vendor/motorola/bangkk/proprietary/vendor/etc/thermal-engine-bangkk.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-bangkk.conf \
     vendor/motorola/bangkk/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/bangkk/proprietary/vendor/etc/vhw.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vhw.xml \
     vendor/motorola/bangkk/proprietary/vendor/firmware/aw87xxx_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87xxx_acf.bin \
