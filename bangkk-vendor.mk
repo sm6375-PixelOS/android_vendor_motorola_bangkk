@@ -209,23 +209,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/bangkk/proprietary/vendor/firmware/mot_dw9784.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/mot_dw9784.prog \
     vendor/motorola/bangkk/proprietary/vendor/firmware/sec_s3nrn4v_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn4v_firmware.bin \
     vendor/motorola/bangkk/proprietary/vendor/firmware/tm_goodix_cfg_group.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tm_goodix_cfg_group.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.sensormodule.mot_bangkk_ov16a1q_ofilm.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mot_bangkk_ov16a1q_ofilm.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.sensormodule.mot_bangkk_s5k4h7_qtech.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mot_bangkk_s5k4h7_qtech.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.sensormodule.mot_bangkk_s5kgn9_ak7377.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mot_bangkk_s5kgn9_ak7377.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.sensormodule.mot_bangkk_s5kgn9_ofilm.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mot_bangkk_s5kgn9_ofilm.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.default.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_ov16a1q.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_ov16a1q.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_ov16a1q_india.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_ov16a1q_india.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_s5k4h7af.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_s5k4h7af.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_s5k4h7af_india.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_s5k4h7af_india.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9_ak7377.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9_ak7377.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9_ak7377_india.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9_ak7377_india.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9_india.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.mot_bangkk_s5kgn9_india.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/fdconfigpreview.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/fdconfigpreviewlite.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/fdconfigvideo.bin \
-    vendor/motorola/bangkk/proprietary/vendor/lib/camera/fdconfigvideolite.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/fdconfigvideolite.bin \
     vendor/motorola/bangkk/proprietary/vendor/lib64/camera/com.qti.sensormodule.mot_bangkk_ov16a1q_ofilm.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mot_bangkk_ov16a1q_ofilm.bin \
     vendor/motorola/bangkk/proprietary/vendor/lib64/camera/com.qti.sensormodule.mot_bangkk_s5k4h7_qtech.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mot_bangkk_s5k4h7_qtech.bin \
     vendor/motorola/bangkk/proprietary/vendor/lib64/camera/com.qti.sensormodule.mot_bangkk_s5kgn9_ak7377.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mot_bangkk_s5kgn9_ak7377.bin \
